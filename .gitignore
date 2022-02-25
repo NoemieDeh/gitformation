@@ -7,11 +7,6 @@
 /sites/*/*services*.yml
 
 # Ignore paths that may contain user-generated content
-/sites/*/files
-/sites/*/public
-/sites/*/private
-/sites/*/files-public
-/sites/*/files-private
 
 # Ignore paths that may contain temporary files
 /sites/*/translations
